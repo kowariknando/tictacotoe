@@ -203,5 +203,6 @@ if numberofplayers == 2:
 
 
 
+input('press enter to finish')
 
 
